@@ -1,0 +1,13 @@
+.container-component {
+  margin: 5em 15em;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.col1 {
+  width: 100%;
+}
+
+.col2 {
+  width: 100%;
+}
